@@ -2,4 +2,12 @@
   "versionCode": 3,
   "updateNotice": "TW CRASH IS FIXED PLS UPDATE",
   "appLink": "https://github.com/TILLDEATH74/Logout/raw/refs/heads/main/update.apk"
+  {
+  "servers": {
+    "admin": { "status": "maintenance", "message": "ERROR 503." },
+    "test": { "status": "online" },
+    "logout": { "status": "online" },
+    "normal": { "status": "online" }
+  }
+}
 }
