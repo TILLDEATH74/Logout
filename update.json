@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
-  "updateNotice": "TW CRASH IS FIXED PLS UPDATE",
-  "appLink": "https://github.com/TILLDEATH74/Logout/raw/refs/heads/main/update.apk",
+  "updateNotice": "A new update is available! Please update to continue.",
+  "appLink": "https://example.com/yourapp.apk",
   "servers": {
     "admin": {
       "status": "online",
