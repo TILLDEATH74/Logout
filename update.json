@@ -4,15 +4,15 @@
   "appLink": "https://github.com/TILLDEATH74/Logout/raw/refs/heads/main/update.apk",
   "servers": {
     "admin": {
-      "status": "online",
-      "message": "Welcome Admin!"
+      "status": "offline",
+      "message": "Admin Server Is Blocked For Security Reason! Be Patient"
     },
     "test": {
       "status": "online",
       "message": "Test server is live."
     },
     "logout": {
-      "status": "offline",
+      "status": "online",
       "message": "Logout server is blocked."
     },
     "normal": {
