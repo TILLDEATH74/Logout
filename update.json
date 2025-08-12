@@ -13,7 +13,7 @@
     },
     "logout": {
       "status": "offline",
-      "message": "Logout server is blocked by Tyrant Cheat Admins."
+      "message": "Logout server is blocked."
     },
     "normal": {
       "status": "online",
