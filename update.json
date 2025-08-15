@@ -4,7 +4,7 @@
   "appLink": "https://github.com/TILLDEATH74/Logout/raw/refs/heads/main/update.apk",
   "servers": {
     "admin": {
-      "status": "online",
+      "status": "offline",
       "message": "Json Parse Error:302"
     },
     "test": {
