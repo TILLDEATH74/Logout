@@ -4,8 +4,8 @@
   "appLink": "https://github.com/TILLDEATH74/Logout/raw/refs/heads/main/update.apk",
   "servers": {
     "admin": {
-      "status": "online",
-      "message": "Admin Server Is Blocked For Security Reason! Be Patient"
+      "status": "offline",
+      "message": "Json Parse Error:302"
     },
     "test": {
       "status": "online",
