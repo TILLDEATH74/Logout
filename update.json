@@ -16,7 +16,7 @@
       "message": "Logout server is blocked."
     },
     "normal": {
-      "status": "offline",
+      "status": "online",
       "message": "Json Parse Error:302"
     }
   }
