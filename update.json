@@ -4,8 +4,8 @@
   "appLink": "https://github.com/TILLDEATH74/Logout/raw/refs/heads/main/update.apk",
   "servers": {
     "admin": {
-      "status": "online",
-      "message": "Json Parse Error:302"
+      "status": "offline",
+      "message": "U Can't Access Admin Server Sorry"
     },
     "test": {
       "status": "online",
