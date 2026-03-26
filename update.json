@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "updateNotice": "PLS ALLOW ALL PERMISSION TO UPDATE",
+  "versionCode": 10,
+  "updateNotice": "FIXED ISSUE OF WIFI BLOCKING",
   "appLink": "https://github.com/TILLDEATH74/Logout/raw/refs/heads/main/update.apk",
   "servers": {
     "admin": {
