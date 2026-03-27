@@ -4,7 +4,7 @@
   "appLink": "https://github.com/TILLDEATH74/Logout/raw/refs/heads/main/update.apk",
   "servers": {
     "admin": {
-      "status": "offline",
+      "status": "online",
       "message": "U Can't Access Admin Server Sorry"
     },
     "test": {
